@@ -1,0 +1,5 @@
+name = "mike-gonzales"
+compatibility_date = "2026-06-03"
+
+[site]
+bucket = "."
